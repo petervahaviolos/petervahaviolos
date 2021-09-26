@@ -1,6 +1,6 @@
 ### Hello! My names Peter 👋
 
-- I'm currently working on a 2D eventually-to-be multiplayer adventure game using the Godot Engine
+- I'm currently working on a 2D multiplayer adventure game using the Godot Engine and the Steam API
 <!--
 **petervahaviolos/petervahaviolos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
